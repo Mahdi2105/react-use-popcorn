@@ -124,6 +124,7 @@ function ListBox() {
     </div>
   );
 }
+
 function MoveiList() {
   const [movies, setMovies] = useState(tempMovieData);
 
